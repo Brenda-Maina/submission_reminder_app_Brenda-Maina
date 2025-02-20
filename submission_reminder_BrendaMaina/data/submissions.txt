@@ -1,0 +1,13 @@
+# Sample student submission records
+Alice, Submitted
+Bob, Not Submitted
+Charlie, Submitted
+David, Not Submitted
+Eve, Submitted
+
+# Additional records
+Frank, Submitted
+Grace, Not Submitted
+Heidi, Submitted
+Ivan, Not Submitted
+Judy, Submitted
